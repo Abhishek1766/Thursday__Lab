@@ -1,3 +1,27 @@
+/*
+ * Q3)Write a program to display the following pattern
+
+
+*********
+ *******
+  *****
+   ***
+    *
+
+
+
+******
+*    *
+*    *
+******
+
+A
+BC
+DEF
+GHIJ
+KLMNO
+
+ */
 package trial;
 
 public class pat {

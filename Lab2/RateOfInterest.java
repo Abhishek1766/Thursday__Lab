@@ -1,3 +1,11 @@
+/*
+ * Q1) Accept age and gender from user and display the rate of interest as follow
+
+age above 60 and gender Male (RI= 7 %)
+age above 60 and gender FeMale (RI= 7.5 %)
+below 60 age = RI 5%
+
+ */
 package trial;
 
 import java.util.Scanner;
